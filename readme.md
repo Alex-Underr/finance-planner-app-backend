@@ -6,4 +6,4 @@
 - `npm lint:fix` &mdash; та ж перевірка лінтера, але з автоматичними виправленнями простих помилок
 
 
-SWAGGER - https://finance-planner-app-l78h.onrender.com/docs/
+## *LINK* - https://finance-planner-app.netlify.app/
